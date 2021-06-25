@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noeljbasil
 - 👀 I’m interested in Machine learning and Data visualization for Business analysis 
-- 🌱 I’m currently learning Extreame Gradient Boosting and other machine learning techniques as well NLP
+- 🌱 I’m currently doing a project that utilizes genetic algorithm to automate hyperparameter tuning of machine learning algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: noelpck@gmail.com, twitter: @noel_jbasil
 
