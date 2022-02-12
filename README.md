@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @noeljbasil
-- 👀 I’m interested in Machine learning and Data visualization to solve Business problems 
-- 🌱 I’m currently doing reserach before starting a project to develop a recommender system for hashtags. End goal is to produce a NLP web app
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me email: noeljbasil@gmail.com, twitter: @noel_jbasil
-
-<!---
-noeljbasil/noeljbasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Noel Joe Basil
+- I am an experienced Data Analyst highly skilled in dashboarding using Tableau and Power BI. You can check out my Tableau public profile here: https://public.tableau.com/app/profile/noel.joe.basil#!/
+- I have also picked up machine learning skills over the years through personal projects. I am plannig to get more practice in though and my github page will be updated accrodingly.
+- My go language for Data Analysis and Machine learning is Python. However, I am also quite proficient with R and SQL
+- I am currently focussing on picking up skills that will enable me to transition to MLOps - PySpark, MLOps best practices, Cloud ML technologies on GCP,Azure and AWS
