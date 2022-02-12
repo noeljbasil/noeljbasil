@@ -3,3 +3,4 @@
 - I have also picked up machine learning skills over the years through personal projects. I am plannig to get more practice in though and my github page will be updated accrodingly.
 - My go to language for Data Analysis and Machine learning is Python. However, I am also quite proficient with R and SQL
 - I am currently focussing on picking up skills that will enable me to transition to MLOps - PySpark, MLOps best practices, Cloud ML technologies on GCP,Azure and AWS
+- Currently reading Machine Learning Engineering with Python by Andrew P. McMahon
